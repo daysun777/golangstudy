@@ -1,1 +1,13 @@
 ## gostudy
+- array array slice map
+- channeles 通道
+- concurrency 并发
+- databasedb
+- funciton
+- interface
+- josn 
+- http
+- pointer
+- reflection
+- strcts
+- util string time
