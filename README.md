@@ -1,4 +1,4 @@
-## gostudy
+## Golang学习笔记
 - array array slice map
 - channeles 通道
 - concurrency 并发
